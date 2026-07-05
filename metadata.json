@@ -1,0 +1,6 @@
+{
+  "name": "程子航的创意设计作品集",
+  "description": "程子航 (Alex Cheng) 的 2026 应届毕业生个人作品集。整体风格呈明亮系，极致克制、高级，极具前沿科技感。包含全屏视频 Hero 首页、多维个人介绍盘与三栏式大型卡片作品集系统（建模渲染、AIGC赋能、设计详情页）。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
